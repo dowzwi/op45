@@ -9,3 +9,4 @@ git remote add origin https://github.com/dowzwi/op45.git
 всегда
 git add .
 git commit -m 'название'
+git push origin master/main
